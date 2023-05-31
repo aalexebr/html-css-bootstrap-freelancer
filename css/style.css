@@ -1,4 +1,12 @@
 .navbar .container-lg .navbar-collapse{
     flex-grow: 0;
-    
+
+}
+
+/* .img{
+    width: 100px;
+} */
+
+.jumbotron img{
+    width: 200px;
 }
