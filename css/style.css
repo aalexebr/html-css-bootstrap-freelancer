@@ -4,7 +4,7 @@
 .debug .card{
     background-color: lightcoral;
     border: 2px solid green;
-    height: 100px;
+    /* height: 100px; */
 }
 
 .debug .about .col-12,
@@ -26,4 +26,10 @@
 
 .jumbotron img{
     width: 200px;
+}
+hr{
+    width: 50px;
+    border-radius: 50px;
+    height: 4px;
+    opacity: 1;
 }
