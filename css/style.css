@@ -39,3 +39,12 @@ hr{
 .card img{
     border-radius: 0.375rem;
 }
+div .rounded-circle{
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+}
+
+.footer-bottom p{
+    font-size: small;
+}
